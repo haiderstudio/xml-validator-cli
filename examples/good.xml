@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- A clean app config. Passes. -->
+<config>
+  <server>
+    <host>localhost</host>
+    <port>8080</port>
+    <note><![CDATA[Use <angle> brackets freely in here.]]></note>
+  </server>
+  <features>
+    <feature name="logging" enabled="true" />
+    <feature name="cache" enabled="false" />
+  </features>
+</config>

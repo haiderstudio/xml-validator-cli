@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <server>
+    <host>localhost</host>
+    <note>Tom &amp; Jerry is fine, but Tom &nope; Jerry is not.</note>
+  </server>
+</config>
